@@ -1,0 +1,16 @@
+C:\Users\pudin\Documents\Programação\GitHub\PudinCremoso-1\bin\Debug\net5.0\PudinCremoso-1.exe
+C:\Users\pudin\Documents\Programação\GitHub\PudinCremoso-1\bin\Debug\net5.0\PudinCremoso-1.deps.json
+C:\Users\pudin\Documents\Programação\GitHub\PudinCremoso-1\bin\Debug\net5.0\PudinCremoso-1.runtimeconfig.json
+C:\Users\pudin\Documents\Programação\GitHub\PudinCremoso-1\bin\Debug\net5.0\PudinCremoso-1.runtimeconfig.dev.json
+C:\Users\pudin\Documents\Programação\GitHub\PudinCremoso-1\bin\Debug\net5.0\PudinCremoso-1.dll
+C:\Users\pudin\Documents\Programação\GitHub\PudinCremoso-1\bin\Debug\net5.0\ref\PudinCremoso-1.dll
+C:\Users\pudin\Documents\Programação\GitHub\PudinCremoso-1\bin\Debug\net5.0\PudinCremoso-1.pdb
+C:\Users\pudin\Documents\Programação\GitHub\PudinCremoso-1\obj\Debug\net5.0\PudinCremoso-1.csproj.AssemblyReference.cache
+C:\Users\pudin\Documents\Programação\GitHub\PudinCremoso-1\obj\Debug\net5.0\PudinCremoso-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pudin\Documents\Programação\GitHub\PudinCremoso-1\obj\Debug\net5.0\PudinCremoso-1.AssemblyInfoInputs.cache
+C:\Users\pudin\Documents\Programação\GitHub\PudinCremoso-1\obj\Debug\net5.0\PudinCremoso-1.AssemblyInfo.cs
+C:\Users\pudin\Documents\Programação\GitHub\PudinCremoso-1\obj\Debug\net5.0\PudinCremoso-1.csproj.CoreCompileInputs.cache
+C:\Users\pudin\Documents\Programação\GitHub\PudinCremoso-1\obj\Debug\net5.0\PudinCremoso-1.dll
+C:\Users\pudin\Documents\Programação\GitHub\PudinCremoso-1\obj\Debug\net5.0\ref\PudinCremoso-1.dll
+C:\Users\pudin\Documents\Programação\GitHub\PudinCremoso-1\obj\Debug\net5.0\PudinCremoso-1.pdb
+C:\Users\pudin\Documents\Programação\GitHub\PudinCremoso-1\obj\Debug\net5.0\PudinCremoso-1.genruntimeconfig.cache
